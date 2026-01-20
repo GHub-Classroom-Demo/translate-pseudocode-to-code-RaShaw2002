@@ -7,3 +7,14 @@ START
    OUTPUT "The sum is", sum
 END
 '''
+# Add two numbers
+
+# Input two numbers
+number1 = int(input("Enter the first number: "))
+number2 = int(input("Enter the second number: "))
+
+# Calculate the sum
+sum = number1 + number2
+
+# Output the result
+print("The sum is", sum)

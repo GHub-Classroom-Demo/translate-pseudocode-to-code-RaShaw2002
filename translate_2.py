@@ -24,18 +24,18 @@ Your task is to replace variable 'x' with apropriate variable names by referring
 # Find the largest of three numbers
 
 # Input three numbers
-x = int(input("Enter the first number: "))
-x = int(input("Enter the second number: "))
-x = int(input("Enter the third number: "))
+number1 = int(input("Enter the first number: "))
+number2 = int(input("Enter the second number: "))
+number3 = int(input("Enter the third number: "))
 
 # Compare numbers to find the largest
-if x > x and x > x:
-    largest = x
-elif x > x:
-    largest = x
+if number1 > number2 and number1 > number3:
+    largest = number1
+elif number2 > number3:
+    largest = number2
 else:
-    largest = x
+    largest = number3
 
 # Output the largest number
-print("The largest number is", x)
+print("The largest number is", largest1)
 
