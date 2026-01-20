@@ -16,6 +16,7 @@ START
    OUTPUT "The largest number is ", largest
 END
 
+When you run the program below, you will face logic error, hence:
 Your task is to replace variable 'x' with apropriate variable names by referring to the pseudocode
 '''
 

@@ -1,5 +1,5 @@
 '''
-Translate the pseudocode below to python code, use the task given in Google classroom as reference
+Translate the pseudocode below to python code, use the task given in Google classroom as reference and run the program
 START
    INPUT number1
    INPUT number2
